@@ -58,7 +58,7 @@
   - 对 H1/H2/H3 进行统计检验（t 检验、Wilcoxon、Mann-Whitney、效应量等）；
   - 输出汇总 Excel：`output_supermarket_analysis.xlsx`；
   - 生成多张图表（价格分布、溢价 Top10、规格效应雷达图等）到 `plots/` 目录；
-  - 自动生成一份 LaTeX 统计分析报告：[analysis_report.tex](cci:7://file:///Users/yangzw/Documents/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6/%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%99%E8%82%B2%E7%BB%9F%E8%AE%A1%E5%AD%A6/analysis_report.tex:0:0-0:0)（与课程论文主体的 LaTeX 报告相互呼应）。
+
 
 - [advanced_analysis.py](cci:7://file:///Users/yangzw/Documents/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6/%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%99%E8%82%B2%E7%BB%9F%E8%AE%A1%E5%AD%A6/advanced_analysis.py:0:0-0:0)  
   辅助分析脚本，基于 `output_supermarket_analysis.xlsx`：
@@ -69,7 +69,7 @@
 - [analysis_report.tex](cci:7://file:///Users/yangzw/Documents/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6/%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%99%E8%82%B2%E7%BB%9F%E8%AE%A1%E5%AD%A6/analysis_report.tex:0:0-0:0)（可选放入仓库）  
   课程论文的 LaTeX 源文件，系统呈现研究背景、理论框架、数据处理流程与统计结果。
 
-- `ref.bib`（可选放入仓库）  
+- `ref.bib`
   LaTeX 论文使用的参考文献 BibTeX 数据库。
 
 ---
